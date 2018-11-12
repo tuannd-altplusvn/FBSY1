@@ -176,7 +176,7 @@ return [
         /**
          * Import third party service provider
          */
-        McCool\LaravelAutoPresenter\AutoPresenterServiceProvider::class,
+        Prettus\Repository\Providers\RepositoryServiceProvider::class,
 
     ],
 
